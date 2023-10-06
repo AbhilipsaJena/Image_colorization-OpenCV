@@ -1,8 +1,8 @@
-#Image Colorization with OpenCV and Deep Learning
+# Image Colorization with OpenCV and Deep Learning
 
 This project demonstrates a Python script for colorizing black and white images using OpenCV and a pre-trained deep neural network model.
 
-##Pre-trained Model download link-
+## Pre-trained Model download link-
 
 1-colorization_deploy_v2.prototxt: https://github.com/richzhang/colorization/tree/caffe/colorization/models
 
